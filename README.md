@@ -1,4 +1,4 @@
-# MLEC-AD
+# Supplementary Materials for MLEC-AD
 This repository includes supplementary materials for a research paper (under review).  
 The tree structure of directories are as follows:  
 
