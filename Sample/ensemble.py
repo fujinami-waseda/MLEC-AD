@@ -5,7 +5,7 @@ import os
 
 os.makedirs('ens', exist_ok=True)
 
-outpath = "/home/haru/github/MLEC-AD/Sample/Jagging/"
+outpath = "."
 mol = "1"
 sets = "out"
 typ = 2

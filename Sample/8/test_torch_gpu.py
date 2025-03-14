@@ -127,9 +127,9 @@ def procdata(d, desType, delta, base, msdir):
     return x_std, w, rho, ndes
 
 def main():
-    pwddir = "/home/haru/github/MLEC-AD/Sample/Jagging/8"
+    pwddir = "."
     savedir = pwddir + '/save'
-    testdir_x = "/home/haru/github/MLEC-AD/Sample/Jagging/data"
+    testdir_x = "../data"
     msdir  = pwddir + "/ms"
     outdir = pwddir + "/out"
     desType = "MLEN_8"

@@ -411,9 +411,9 @@ def main():
     param setting
     """
 
-    pwddir = "/home/haru/github/MLEC-AD/Sample/Jagging/3/"
+    pwddir = "."
     savedir = pwddir + '/save'
-    csvdir = "/home/haru/github/MLEC-AD/Sample/Jagging/data"
+    csvdir = "../data"
     msdir  = pwddir + "/ms"
     desType = "MLEN_3"
     layer_num = 4
